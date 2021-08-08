@@ -1,5 +1,7 @@
 {
   "name": "compact",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
